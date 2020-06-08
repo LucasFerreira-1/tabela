@@ -49,6 +49,7 @@
                 color: white;
             }
             table {
+                width:80%;
                 border: 5px solid #009785;
                  border-radius: 2%;  
                   text-align: center;
